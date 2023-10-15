@@ -1,0 +1,144 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  
+  .tripo {
+    font-family: "Kalam", cursive;
+    color: white;
+    text-shadow: 2px 2px black;
+    font-size: 50px;
+    margin-top: 20px;
+    margin-left: 20px;
+  }
+  #navbar {
+    background-image: url(https://wallpaperaccess.com/full/4225707.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 100%;
+    height: 800px;
+    display: flex;
+  }
+  .buttons {
+    display: flex;
+    margin-left: 520px;
+    margin-top: -60px;
+    position: sticky;
+  }
+  .btn {
+    color: rgb(255, 255, 255);
+    border: 2px solid white;
+    margin: 25px;
+    padding: 5px;
+    text-align: center;
+    justify-content: center;
+    border-radius: 20px;
+    width: 74px;
+    font-size: 15px;
+  }
+  .btn:hover {
+    color: black;
+    background-color: rgb(40, 39, 39);
+    border-radius:25px;
+  }
+  .text {
+    margin-left: 250px;
+    margin-top: 70px;
+    color: white;
+    font-size: 40px;
+  }
+  #discover {
+    border: 2px solid white;
+    color: white;
+    margin-left: 330px;
+    padding: 5px;
+    width: 150px;
+    font-size: 11px;
+    text-align: center;
+  }
+  .row{
+      display: flex;
+      margin-top: -33px;
+      background-color: aliceblue;
+      width: 700px;
+      margin-left: 125px;
+      box-shadow: 1px 8px 10px 1px #a9a8a8;
+      padding: 10px;
+      justify-content: space-evenly;
+     
+  }
+  .col{
+      
+     margin-left: 30px;
+  }
+  input{
+      margin-top: 10px;
+      padding: 6px;
+      border: 1px solid rgb(254, 254, 254);
+      border-radius: 20px;
+      box-shadow: 1px 4px 4px 1px #d6d6d6;
+  }
+  button{
+    background-color: rgb(70, 0, 174);
+    border: 0;
+    color: white;
+    margin-left: 845px;
+    width: 135px;
+    margin-top: -79px;
+    height: 79.2px;
+    position: absolute;
+  }
+  .row2{
+    margin-top: 250px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 100%;
+    height: 300px;
+    
+   
+  }
+  .col2{
+    width: 250px;
+    height: 550px;
+  text-align: justify;
+  box-shadow: 12px 12px 6px rgba(0,0,0,0.1);
+
+    
+  }
+  .col2:hover{
+    transform: scale(1.1);
+    transition: 0.3s;
+  }
+
+
+
+
+  .te{
+    text-align: center;
+    margin-top: -480px;
+    font-size: 70px;
+    text-shadow: 1px 2px black;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+  }
+
+  .footer h3,p{
+    text-align: center;
+    font-style: oblique;
+    color: #a9a8a8;
+  }
+.footer{
+  margin-top: 700px;
+  height: 150px;
+  background-color: black;
+}
+
+
+
+
+@media only screen and (max-width: 600px) {
+  body {
+    background-color: lightblue;
+  }
+}
