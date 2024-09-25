@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Abhinav 
 - 👀 I’m a ME(A)RN Stack developer
-- 🌱 I’m currently learning ...
 - 💞️ I love learning new technologies!
   
 
