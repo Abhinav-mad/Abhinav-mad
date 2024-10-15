@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abhinav 
-- 👀 I’m a ME(A)RN Stack developer
+- 👀 I’m a MERN Stack developer
 - 💞️ I love learning new technologies!
   
 
